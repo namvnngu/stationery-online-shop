@@ -1,8 +1,6 @@
-<p align="center">
- <img src="logo.svg"/>
-<p/>
-
 # FunNy /^^/ | Online Stationery Shop
+
+ <img width="160" align="right" src="logo.svg"/>
 
 __Project Description__: A website represents an online stationery shop to satisfy “back-to-school” feelings and sell beautiful notebooks, fresh pens, delightful erasers, pencil cases, etc.
 
